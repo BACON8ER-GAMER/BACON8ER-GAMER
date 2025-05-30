@@ -2,9 +2,9 @@
 - 👀 I’m interested in technical writing for various projects.
 - 🌱 I’m currently learning technical communication through a certificate program.
 - 💞️ I’m looking to collaborate on any project whatsoever. If you need technical documentation for anything, I'll gladly lend a hand!
-- 📫 How to reach me 
+- 📫 Reach me via email: n8alberda@gmail.com
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I had an extra tooth!
 
 <!---
 BACON8ER-GAMER/BACON8ER-GAMER is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
